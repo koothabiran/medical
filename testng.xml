@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Main Test Suite" verbose="2">
+    <test name="TestNG Test Group">
+        <classes>
+        <class name="test.report"/>
+        <class name="test.batchfile"/>
+        </classes>
+    </test>
+</suite>
